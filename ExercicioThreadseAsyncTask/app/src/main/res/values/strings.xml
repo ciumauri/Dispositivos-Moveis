@@ -2,4 +2,5 @@
     <string name="app_name">Exercício Threads e AsyncTask</string>
     <string name="exercise_title">Exercício 5</string>
     <string name="iniciar">Iniciar</string>
+    <string name="_10">10</string>
 </resources>
