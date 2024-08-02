@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">intl</string>
+    <string name="texto">Olá Mundo!</string>
+    <string name="pais">Brasil</string>
+</resources>
