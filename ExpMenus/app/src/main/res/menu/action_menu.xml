@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/action_more"
+    android:icon="@android:drawable/ic_menu_add"
+    android:title="@string/action_more"
+    app:showAsAction="always">
+
+    <menu>
+        <item
+            android:id="@+id/action_lef"
+            android:icon="@drawable/swipe_left"
+            android:title="@string/left"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_right"
+            android:icon="@drawable/swipe_right"
+            android:title="@string/right"
+            app:showAsAction="never" />
+
+    </menu>
+</item>
+<item
+    android:id="@+id/action_settings"
+    android:icon="@android:drawable/ic_menu_preferences"
+    android:title="@string/action_settings"
+    app:showAsAction="never" />
+
+</menu>
