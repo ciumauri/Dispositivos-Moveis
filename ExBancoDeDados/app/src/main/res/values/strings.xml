@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExBancoDeDados</string>
+    <string name="insert_new_item">Inserir</string>
+</resources>

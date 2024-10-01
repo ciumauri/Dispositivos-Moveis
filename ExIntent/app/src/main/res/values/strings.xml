@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExIntent</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <array name="acoes">
+        <item>Camera Foto</item>
+        <item>Camera Video</item>
+        <item>Visualizar Todos os Contatos</item>
+        <item>Visualizar Contato 1</item>
+        <item>Selecionar Contato</item>
+        <item>Compartilhar</item>
+        <item>Enviar SMS</item>
+        <item>Discar para Telefone</item>
+    </array>
+</resources>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Exercicio_TimePicker</string>
+    <string name="set_time">Definir Data</string>
+    <string name="set_hour">Definir Hora</string>
 </resources>

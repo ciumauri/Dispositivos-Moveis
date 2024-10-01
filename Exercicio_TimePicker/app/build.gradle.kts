@@ -6,6 +6,10 @@ android {
     namespace = "com.example.exercicio_timepicker"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.exercicio_timepicker"
         minSdk = 24
